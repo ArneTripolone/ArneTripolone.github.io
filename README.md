@@ -7,3 +7,4 @@
 - After cleaning up both the html and css files, the website functions the same, but now with improved accessibility.
 
 ### Screenshots:
+![](Screen%20Shot%202021-05-29%20at%205.54.39%20pm.png)
